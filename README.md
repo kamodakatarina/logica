@@ -1,3 +1,3 @@
 # logica
 
-aula de programação 
+Lógica de programação com Fluxograma 
